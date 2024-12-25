@@ -14,8 +14,7 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - List
 - Deque
 - Stack
-- Queue
-- Priority Queue
+- Queue (basic queue, Priority Queue, Minimum Heap)
 - Set(basic set, multiset, unordered_set)
 - Map(basic map, multimap, unordered_map)
 
