@@ -18,6 +18,16 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Set(basic set, multiset, unordered_set)
 - Map(basic map, multimap, unordered_map)
 
+## Basic Maths
+**Topics:** 
+- Digit Extraction
+- Reverse a Number
+- Check Palindrome
+- Armstrong Number
+- Print All Divisors
+- Check Prime Numbers
+- GCD/HCF - best approach using Modified Eucledian Algorithm
+
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
 Linkedin: [@nikkhil-pareek](https://www.linkedin.com/in/nikkhil-pareek/)
