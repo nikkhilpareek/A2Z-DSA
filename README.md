@@ -7,7 +7,7 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 
 > Below you can Find the Topics I learned in my Journey.
 
-## 1.CPP STL
+## CPP STL
 **Topics:** 
 - Pair
 - Vector
