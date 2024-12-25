@@ -37,6 +37,8 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Quick Sort
 - Recursive Bubble Sort
 - Recursive Insertion Sort
+> Project Idea: Sorting Visualiser using CPP only
+
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
