@@ -5,7 +5,7 @@ I will be using [A2Z DSA Sheet by Striver](https://takeuforward.org/strivers-a2z
 
 Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some questions on various other platforms if i find the question interesting.
 
-> Below you can Find the Topics I learned in my Journey.
+> Below you can Find the Index to Topics I learned in my Journey.
 
 ## CPP STL
 **Topics:** 
@@ -27,6 +27,16 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Print All Divisors
 - Check Prime Numbers
 - GCD/HCF - best approach using Modified Eucledian Algorithm
+
+## Sorting Techniques
+**Topics:**
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Recursive Bubble Sort
+- Recursive Insertion Sort
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
