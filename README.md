@@ -45,6 +45,11 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Find Second Largest Element in Array (Brute Force, Better & Optimal Solution)
 - Check Array is Sorted or Not
 - Remove Duplicates in-place from a Sorted Array (Brute Force & Optimal Solution)
+- Left Rotate Array by One Place
+- Left Rotate Aray by D Places (Brute Force & Optimal Solution)
+- Move All Zeroes to End (Brute Force & Optimal Solution)
+- Linear Search
+- Right Rotate by One Place
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
