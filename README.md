@@ -39,6 +39,12 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Recursive Insertion Sort
 > Project Idea: Sorting Visualiser using CPP only
 
+## Arrays
+**Topics:**
+- Find Largest Element in Array (Brute Force & Optimal Solution)
+- Find Second Largest Element in Array (Brute Force, Better & Optimal Solution)
+- Check Array is Sorted or Not
+- Remove Duplicates in-place from a Sorted Array (Brute Force & Optimal Solution)
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
