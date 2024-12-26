@@ -5,6 +5,8 @@ I will be using [A2Z DSA Sheet by Striver](https://takeuforward.org/strivers-a2z
 
 Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some questions on various other platforms if i find the question interesting.
 
+*Folder for Leetcode questions I solved is also there, more details about that is available in its own readme file*
+
 > Below you can Find the Index to Topics I learned in my Journey.
 
 ## CPP STL
