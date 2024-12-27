@@ -52,6 +52,9 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Move All Zeroes to End (Brute Force & Optimal Solution)
 - Linear Search
 - Right Rotate by One Place
+- Right Rotate by D Places (Brute Force & Optimal Solution)
+- Union of Sorted Array Brute Force Solution
+- Union of Sorted Array Optimal Solution
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
