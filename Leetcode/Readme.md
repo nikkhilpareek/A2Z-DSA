@@ -6,4 +6,7 @@ This Folder Contains all the Questions I have Solved on Leetcode during this DSA
 **Easy:**
 - [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
+**Medium:**
+- [189 Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+
 ### Check Out my Leetcode Profile Here: [@nikkhil-pareek](https://leetcode.com/u/nikkhil-pareek/)
