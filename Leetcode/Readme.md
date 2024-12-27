@@ -5,6 +5,9 @@ This Folder Contains all the Questions I have Solved on Leetcode during this DSA
 ### Questions I Have Solved & Solution Uploaded:
 **Easy:**
 - [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+
 
 **Medium:**
 - [189 Rotate Array](https://leetcode.com/problems/rotate-array/description/)
