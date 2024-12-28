@@ -53,8 +53,12 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Linear Search
 - Right Rotate by One Place
 - Right Rotate by D Places (Brute Force & Optimal Solution)
-- Union of Sorted Array Brute Force Solution
-- Union of Sorted Array Optimal Solution
+- Union of two Sorted Arrays Brute Force Solution
+- Union of two Sorted Arrays Optimal Solution
+- Intersection of two Sorted Arrays (Brute Force & Optimal Solution)
+- Finding Missing Number in an Array (Brute Force, Better, Optimal 1 & Optimal 2 Solution)
+- Maximum Consecutive Ones in an Array of 0s and 1s
+- Find Number that Appears only once in an Array where all other numbers appear twice.
 
 ## Author
 Github: [@nikkhilpareek](https://www.github.com/nikkhilpareek) <br>
