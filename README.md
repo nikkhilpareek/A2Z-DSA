@@ -76,7 +76,8 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Maximum Consecutive Ones in an Array of 0s and 1s  
 - Find Number that Appears only once in an Array where all other numbers appear twice  
 - Find Longest Subarray with Sum K in a Positive Only Array (Brute Force, Better & Optimal solution)  
-- Find Longest Subarray with Sum K in an Array (Brute Force & Optimal solution)  
+- Find Longest Subarray with Sum K in an Array (Brute Force & Optimal solution)
+- Maximum Subarray Sum - Kadane's Algorithm
 
 </details>
 
