@@ -77,8 +77,36 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Find Number that Appears only once in an Array where all other numbers appear twice  
 - Find Longest Subarray with Sum K in a Positive Only Array (Brute Force, Better & Optimal solution)  
 - Find Longest Subarray with Sum K in an Array (Brute Force & Optimal solution)
-- Maximum Subarray Sum - Kadane's Algorithm
+- Two Sum (Brute Force, Better, Optimal Solution)
+- Sort an Array of 0s, 1s and 2s **Dutch National Flag Algorithm**
+- Maximum Subarray Sum (Brute Force & Optimal Solution) **Kadane's Algorithm**
+- Majority Element >N/2 **Moore's Voting Algorithm**
+- Count Subarrays with XOR K (Brute Force & Optimal Solution)
+- Best Time to Buy & Sell Stocks
+- Rearrange Elements by Alternate Sign - Equal Positive & Negatives (Brute Force & Optimal Solution)
+- Rearrange Elements by Alternate Sign - Unequal Positive & Negatives
+- Next Permutation (Brute Force Explanation, STL & Optimal Solution)
+- Leaders in Array (Brute Force & Optimal Solution)
+- Longest Consecutive Sequence (Better & Optimal Solution)
 
+// To be Uploaded
+- Number of Subarrays with Sum K (Brute Force & Optimal Solution)
+- Set MAtrix Zeroes (Brute Force, Better & Optimal Solution)
+- Rotate Matrix by 90 degrees (Brute Force & Optimal Solution)
+- Spiral Traversal of Matrix
+- Pascal's Triangle 1: Print element of Triangle by row and column number 
+- Pascal's Triangle 2: Print nth row of Triangle
+- Pascal's Triangle 3: Print entire Triangle
+- Majority Element >n/3 (Brute Force, Better & Optimal Solution)
+- Three Sum (Brute Force, Better & Optimal Solution)
+- Four Sum (Brute Force, Better & Optimal Solution)
+- Maximum Product Subarray (Brute Force & Optimal Solution)
+- Count Inversions in Array (Brute Force & Optimal Solution)
+- Reverse Pairs
+- Merge Overlapping Intervals (Brute Force & Optimal Solution)
+- Merge Two Sorted Array (Brute Force, Better & Optimal Solution)
+- Repeating & Missing Number (Brute Force, Better, Optimal 1 using Sum & Optimal 2 using XOR)
+  
 </details>
 
 ## Author
