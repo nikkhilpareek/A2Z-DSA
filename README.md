@@ -88,19 +88,21 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Next Permutation (Brute Force Explanation, STL & Optimal Solution)
 - Leaders in Array (Brute Force & Optimal Solution)
 - Longest Consecutive Sequence (Better & Optimal Solution)
-
-// To be Uploaded
 - Number of Subarrays with Sum K (Brute Force & Optimal Solution)
-- Set MAtrix Zeroes (Brute Force, Better & Optimal Solution)
-- Rotate Matrix by 90 degrees (Brute Force & Optimal Solution)
-- Spiral Traversal of Matrix
+- Set MAtrix Zeroes (Brute Force)
 - Pascal's Triangle 1: Print element of Triangle by row and column number 
 - Pascal's Triangle 2: Print nth row of Triangle
 - Pascal's Triangle 3: Print entire Triangle
-- Majority Element >n/3 (Brute Force, Better & Optimal Solution)
+- Majority Element >n/3 **Modified Moore's Voting Algorithm**
 - Three Sum (Brute Force, Better & Optimal Solution)
-- Four Sum (Brute Force, Better & Optimal Solution)
-- Maximum Product Subarray (Brute Force & Optimal Solution)
+- Four Sum
+- Maximum Product Subarray
+
+// To be Uploaded
+- Set Matrix Zeroes (Better)
+- Set Matrix Zeroes (Optimal Solution)
+- Rotate Matrix by 90 degrees (Brute Force & Optimal Solution)
+- Spiral Traversal of Matrix
 - Count Inversions in Array (Brute Force & Optimal Solution)
 - Reverse Pairs
 - Merge Overlapping Intervals (Brute Force & Optimal Solution)
