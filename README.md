@@ -97,18 +97,25 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Three Sum (Brute Force, Better & Optimal Solution)
 - Four Sum
 - Maximum Product Subarray
-
-// To be Uploaded
 - Set Matrix Zeroes (Better)
 - Set Matrix Zeroes (Optimal Solution)
 - Rotate Matrix by 90 degrees (Brute Force & Optimal Solution)
 - Spiral Traversal of Matrix
 - Count Inversions in Array (Brute Force & Optimal Solution)
-- Reverse Pairs
 - Merge Overlapping Intervals (Brute Force & Optimal Solution)
 - Merge Two Sorted Array (Brute Force, Better & Optimal Solution)
 - Repeating & Missing Number (Brute Force, Better, Optimal 1 using Sum & Optimal 2 using XOR)
+// To Be Uploaded - Reverse Pairs
   
+</details>
+
+## Binary Search
+<details>
+<summary>Topics</summary>
+
+- Binary Search Implementation - Iterative & Recursive
+- Lower & Upper Bound - Verified using C++ STL 
+
 </details>
 
 ## Author
