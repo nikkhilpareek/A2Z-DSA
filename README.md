@@ -105,7 +105,7 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Merge Overlapping Intervals (Brute Force & Optimal Solution)
 - Merge Two Sorted Array (Brute Force, Better & Optimal Solution)
 - Repeating & Missing Number (Brute Force, Better, Optimal 1 using Sum & Optimal 2 using XOR)
-// To Be Uploaded - Reverse Pairs
+- Reverse Pairs
   
 </details>
 
