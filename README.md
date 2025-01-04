@@ -114,7 +114,11 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 <summary>Topics</summary>
 
 - Binary Search Implementation - Iterative & Recursive
-- Lower & Upper Bound - Verified using C++ STL 
+- Lower & Upper Bound - Verified using C++ STL
+- First & Last Occurrences of Element (Using Lower-Upper Bound & Using Raw Binary Search)
+- Count Occurrences of Element
+- Search Element in Rotated Array with Unique Elements
+- Search Element in Rotated Array with Duplicate Elements
 
 </details>
 
