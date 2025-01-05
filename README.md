@@ -119,6 +119,8 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Count Occurrences of Element
 - Search Element in Rotated Array with Unique Elements
 - Search Element in Rotated Array with Duplicate Elements
+- Minimum in Sorted Array
+
 
 </details>
 
