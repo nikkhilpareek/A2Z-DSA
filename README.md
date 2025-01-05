@@ -4,6 +4,8 @@ This Repository is the home of all the pieces of code I have written or I will b
 
 I will be using [A2Z DSA Sheet by Striver](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) as my main source of learning in this course.
 
+Some of the topics which weren't uploaded by Striver, I learned them from Aditya Verma.
+
 Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some questions on various other platforms if I find the question interesting.
 
 *Folder for Leetcode questions I solved is also there, more details about that is available in its own readme file.*
