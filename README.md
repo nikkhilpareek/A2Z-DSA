@@ -121,6 +121,7 @@ Platforms Used for Practice - Majorly Coding Ninjas & Leetcode, may do some ques
 - Search Element in Rotated Array with Duplicate Elements
 - Minimum in Sorted Array
 - Number of Rotations in Array
+- Single Element in Array
 
 
 </details>
